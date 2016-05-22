@@ -20,6 +20,6 @@ For TSSOP-20 package
 - pin 15 (GND) to GND
 - pin 1  (BOOT0) to +3.3
 - pin 4  (RESET) to GND, temporarily
-- pin 8  (USART1_TX) to RX of the FTDI-cable
-- pin 9  (USART1_RX) to TX of the FTDI-cable
+- pin <s>8</s> 17  (USART1_TX) to RX of the FTDI-cable
+- pin <s>9</s> 18  (USART1_RX) to TX of the FTDI-cable
 
